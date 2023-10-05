@@ -1,0 +1,27 @@
+{
+  "name": "audio-viz",
+  "version": "1.0.0",
+  "description": "music input visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Hardie",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "p5": "^1.7.0",
+    "three": "^0.157.0",
+    "tone": "^14.7.77"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelhardie63/audio-visualizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelhardie63/audio-visualizer/issues"
+  },
+  "homepage": "https://github.com/michaelhardie63/audio-visualizer#readme"
+}
